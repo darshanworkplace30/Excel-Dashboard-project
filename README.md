@@ -85,7 +85,7 @@ Created 6 pivot tables based on key business questions:
 - **Power Pivot** (Data modeling and relationships)
 - **Pivot Tables** (Aggregation and summarization)
 - **Excel Charts** (Dynamic visualizations)
-- **Slicers** (Interactive filtering)
+- **Slicers**  (Interactive filtering)
 
 ---
 
