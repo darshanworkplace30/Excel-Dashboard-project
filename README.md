@@ -94,7 +94,7 @@ This dashboard enables FNP to:
 - ✅ Identify seasonal trends and adjust inventory accordingly
 - ✅ Optimize marketing spend by occasion and geography
 - ✅ Monitor delivery performance and customer satisfaction metrics
-- ✅ Track product performance and recommend promotions
+- ✅ Track product performance and recommend promotion
 - ✅ Make data-driven decisions on expansion strategies
 
 ---
