@@ -10,7 +10,7 @@ This project demonstrates end-to-end **data cleaning, transformation, and visual
 ## 🎯 Key Metrics
 - **Total Orders:** 1,000
 - **Total Revenue:** ₹3,520,984
-- **Average Delivery Time:** 5.53 dayS
+- **Average Delivery Time:** 5.53 days
 - **Average Customer Spend:** ₹3,520.98
 
 ---
