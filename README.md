@@ -22,7 +22,7 @@ This project demonstrates end-to-end **data cleaning, transformation, and visual
 - **Standardized text fields:** Cleaned occasion and category names for consistency
 - **Created calculated columns:**
   - `Order_Time`: Extracted hour-of-day from order timestamp
-  - `Delivery_Days`: Calculated days between order and delivery dates
+  - `Delivery_Days`: Calculated days between order and delivery date
   - `Customer_Segment`: Categorized by spending levels
 
 ### 2. **Data Modeling (Power Pivot)**
